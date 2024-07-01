@@ -105,3 +105,9 @@ lib/local/CppInerop/Debug/
 
 # IDE-generated folders
 .idea
+
+*.dat
+*.txt
+bin/
+*.a
+*.cmake
